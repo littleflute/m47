@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Expressway (To Your Heart).mp3";		
+f[2]	= "02 La-La - Means I Love You.mp3";		
+f[3]	= "03 Cowboys to Girls.mp3";		
+f[4]	= "04 Hey, Western Union Man.mp3";		
+f[5]	= "05 Ready or Not Here I Come (Can't Hide from Love).mp3";		
+f[6]	= "06 Only the Strong Survive.mp3";		
+f[7]	= "07 Didn't I (Blow Your Mind This Time).mp3";		
+f[8]	= "08 Brand New Me.mp3";		
+f[9]	= "09 Don't Let the Green Grass Fool You.mp3";		
+f[10]	= "10 You're the Reason Why.mp3";		
+f[11]	= "11 Drowning in the Sea of Love.mp3";		
+f[12]	= "12 I'm Stone in Love with You.mp3";		
+f[13]	= "13 I Miss You.mp3";		
+f[14]	= "14 Back Stabbers.mp3";		
