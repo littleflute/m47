@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Then Came You.mp3";		
+f[2]	= "02 Love Is the Message.mp3";		
+f[3]	= "03 When Will I See You Again.mp3";		
+f[4]	= "04 Where Are All My Friends.mp3";		
+f[5]	= "05 Picture Us.mp3";		
+f[6]	= "06 Bad Luck.mp3";		
+f[7]	= "07 Give the People What They Want.mp3";		
+f[8]	= "08 Billy's Back Home.mp3";		
+f[9]	= "09 Hope That We Can Be Together Soon.mp3";		
+f[10]	= "10 Do It Any Way You Wanna.mp3";		
+f[11]	= "11 The Big Hurt.mp3";		
+f[12]	= "12 Let Me Make Love to You.mp3";		
+f[13]	= "13 Wake Up Everybody.mp3";		
+f[14]	= "14 I Love Music.mp3";		
+f[15]	= "16 Let's Groove.mp3";		
